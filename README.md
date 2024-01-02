@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python language, data structures and algorithms.
 - 🙇 I'm well versed and experienced in solving coding challenges.
 - 💞️ I’m looking to collaborate on build dynamic and responsive websites and apps.
-- 📫 How to reach me on my personal telephone line: 08124433788 and email: Usifo.emmanuel2@gmail.com 
+- 📫 How to reach me on my personal telephone line: 08124433789 and email: Usifo.emmanuel2@gmail.com 
 
 <!---
 humbleUSE/humbleUSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

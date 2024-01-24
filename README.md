@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @humbleUSE
 - 👀 I’m interested in python programming,Web and app development.
-- 💪 I am proficient in java, HTML, Css and java Script.
-- 🌱 I’m currently learning python language, data structures and algorithms.
+- 💪 I am proficient in Python, java,java Script, HTML,Css, data structures and algorithms.
+- 🌱 I’m currently taking a python programming and Computer science certification course with Harvard.
 - 🙇 I'm well versed and experienced in solving coding challenges.
-- 💞️ I’m looking to collaborate on build dynamic and responsive websites and apps.
+- 💞️ I’m looking to collaborate on build dynamic and responsive websites, backend technologies, data science, ML and AI projects..
 - 📫 How to reach me on my personal telephone line: 08124433789 and email: Usifo.emmanuel2@gmail.com 
 
 <!---

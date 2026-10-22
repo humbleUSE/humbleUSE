@@ -34,56 +34,19 @@ I care deeply about product quality, frontend performance, and thoughtful intera
 
 ## Technical Stack
 
-### Frontend Core
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Node.js
+**Frontend Core:** JavaScript · TypeScript · React · Next.js · Node.js
 
-### Styling & Design Systems
-- HTML
-- CSS
-- Tailwind CSS
-- CUBE CSS
-- CSS Modules
-- Vanilla Extract
-- Design Tokens
-- Radix UI
-- Base UI
-- shadcn/ui
+**Styling & Design Systems:** HTML · CSS · Tailwind CSS · CUBE CSS · CSS Modules · Vanilla Extract · Design Tokens · Radix UI · Base UI · shadcn/ui
 
-### State, Data & Forms
-- React Router
-- TanStack Query
-- React Hook Form
-- Zod
-- Zustand
+**State, Data & Forms:** React Router · TanStack Query · React Hook Form · Zod · Zustand
 
-### Responsive UI & UX
-- Accessibility testing
-- Responsive UI design
-- Type-safe UI engineering
-- Animation and motion design
-- Polypane
-- Responsively App
+**Responsive UI & UX:** Accessibility testing · Responsive UI design · Type-safe UI engineering · Animation and motion design · Polypane · Responsively App
 
-### API & Collaboration
-- Postman
-- Bruno
+**API & Collaboration:** Postman · Bruno
 
-### Tools & Workflow
-- Git
-- GitHub
-- Vite
-- VS Code
+**Tools & Workflow:** Git · GitHub · Vite · VS Code
 
-### AI Tools
-- GitHub Copilot
-- ChatGPT
-- Claude
-- Gemini
-- Cursor
+**AI Tools:** GitHub Copilot · ChatGPT · Claude · Gemini · Cursor
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 

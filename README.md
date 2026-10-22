@@ -1,4 +1,4 @@
-# Usifo Emmanuel Sunday
+# Usifo Emmanuel Sunday 
 
 **Frontend Engineer** | React · TypeScript · Design Systems · Accessibility · Performance · AI-Assisted Development
 

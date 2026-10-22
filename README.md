@@ -40,7 +40,7 @@ I care deeply about product quality, frontend performance, and thoughtful intera
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=flat&logo=react&logoColor=white)
 
-**Additional tools and practices:** Java · React Router · TanStack Query · React Hook Form · Zod · Zustand · Radix UI · Base UI · CUBE CSS · CSS Modules · Vanilla Extract · design tokens · accessibility testing · responsive UI design · type-safe UI engineering · performance-conscious frontend engineering · animation and motion design
+**Additional tools and practices:** Java · React Router · TanStack Query · React Hook Form · Zod · Zustand · Radix UI · Base UI · CUBE CSS · CSS Modules · Vanilla Extract · design tokens · accessibility testing · responsive UI design · type-safe UI engineering · performance-conscious frontend engineering · animation and motion design · Postman · Bruno · Polypane · Responsively App
 
 **AI-assisted workflow:** Claude · ChatGPT · Gemini · GitHub Copilot · Cursor. I use these tools to accelerate development, debugging, and code review, and I verify and test all code before deployment.
 

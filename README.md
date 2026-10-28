@@ -77,8 +77,13 @@ CSS architecture and layout · JavaScript internals · React and Next.js archite
 
 **Issued by Microsoft (2025):**
 - AI concepts
+- Responsible AI with GitHub Copilot
 - Prompt engineering with GitHub Copilot
 - GitHub Copilot fundamentals
+- Management and customization considerations with GitHub Copilot
+- GitHub Copilot Across Environments: IDE, Chat, GitHub.com, Command Line Techniques, and the   GitHub Copilot App
+- Using advanced GitHub Copilot features
+- Introduction to prompt engineering with GitHub Copilot
 - Web accessibility basics
 - HTML and CSS
 - Web development with Visual Studio Code
